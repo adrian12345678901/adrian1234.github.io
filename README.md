@@ -7,16 +7,15 @@ project website
         <title>Challenge: Apples and bananas classes</title>
         <style>
         .bananas{
-  color:yellow;
-}
-.apples{
-  color: red;
-}</style>
+            color:yellow;
+        }
+        .apples{
+              color: red;
+        }
+        </style>
     </head>
     <body>
-
     <h1><strong class="apples">Apples</strong> and <strong class="bananas">Bananas</strong></h1>
-    
     <p>
     I like to eat eat eat 
         <strong class="apples">apples</strong> and
@@ -56,8 +55,6 @@ project website
         <strong class="bananas">bununus</strong>.<br>
     I like to eat eat eat 
         <strong class="apples">apples</strong> and
-        <strong class="bananas">bananas</strong>.<br>
-</p>
-
+        <strong class="bananas">bananas</strong>.<br></p>
     </body>
 </html>
